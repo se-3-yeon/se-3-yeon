@@ -1,4 +1,4 @@
-## Hi there 👋
+## 세연의 GitHub 👋
 
 <!--
 **se-3-yeon/se-3-yeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
